@@ -1,6 +1,6 @@
 {
   "name": "js-proj-template",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "js project temples.",
   "main": "lib/main.js",
   "scripts": {
