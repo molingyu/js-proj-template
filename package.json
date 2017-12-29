@@ -1,7 +1,7 @@
 {
   "name": "js-proj-template",
   "version": "0.1.1",
-  "description": "",
+  "description": "js project temples.",
   "main": "lib/main.js",
   "scripts": {
     "clean": "rm lib/ -rf",

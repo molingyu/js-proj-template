@@ -1,8 +1,19 @@
 # js-proj-template
 
-[![Build Status](https://travis-ci.org/molingyu/js-proj-template.svg?branch=master)](https://travis-ci.org/molingyu/js-proj-template)
-[![Coverage Status](https://coveralls.io/repos/github/molingyu/js-proj-template/badge.svg?branch=master)](https://coveralls.io/github/molingyu/js-proj-template?branch=master)
-[![npm version](https://badge.fury.io/js/js-proj-template.svg)](https://badge.fury.io/js/js-proj-template)
-[![Dependency Status](https://www.versioneye.com/user/projects/594880870fb24f0032ea1b44/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/594880870fb24f0032ea1b44)
+<p align="center">
+    <a href="https://travis-ci.org/molingyu/js-proj-template">
+        <img src="https://travis-ci.org/molingyu/js-proj-template.svg?branch=master" alt="Build Status">
+    </a>
+    <a href="https://coveralls.io/github/molingyu/js-proj-template?branch=master">
+        <img src="https://coveralls.io/repos/github/molingyu/js-proj-template/badge.svg?branch=master" alt="Coverage Status">
+    </a>
+    <a href="https://badge.fury.io/js/js-proj-template">
+        <img src="https://badge.fury.io/js/js-proj-template.svg" alt="npm version">
+    </a>
+</p>
 
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+<p align="center">
+    <a href="https://github.com/standard/standard">
+        <img src="https://cdn.rawgit.com/standard/standard/master/badge.svg" alt="JavaScript Style Guide">
+    </a>
+</p>
