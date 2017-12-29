@@ -1,6 +1,6 @@
 {
   "name": "js-proj-template",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "js project temples.",
   "main": "lib/main.js",
   "scripts": {
@@ -9,6 +9,7 @@
     "standard": "standard --fix -v | snazzy",
     "docs": "jsdoc -c scripts/jsdoc.conf.json -R readme.md",
     "release": "standard-version",
+    "publish": "npm run release && git push --follow-tags origin master; npm publish",
     "test": "jest",
     "test:ci": "jest --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
