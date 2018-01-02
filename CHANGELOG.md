@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.1.17"></a>
+## [0.1.17](https://github.com/molingyu/js-proj-template/compare/v0.1.16...v0.1.17) (2018-01-02)
+
+
+
 <a name="0.1.16"></a>
 ## [0.1.16](https://github.com/molingyu/js-proj-template/compare/v0.1.15...v0.1.16) (2017-12-29)
 
