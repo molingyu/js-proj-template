@@ -10,6 +10,12 @@
     <a href="https://badge.fury.io/js/js-proj-template">
         <img src="https://badge.fury.io/js/js-proj-template.svg" alt="npm version">
     </a>
+    <a href="http://commitizen.github.io/cz-cli/">
+        <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly">
+    </a>
+    <a href="./LICENSE">
+        <img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103" alt="MIT Licence">
+    </a>
 </p>
 
 <p align="center">
